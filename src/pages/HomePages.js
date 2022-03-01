@@ -1,9 +1,10 @@
 import React from "react";
+import { Container } from "../styles/center";
 
 export const HomePages = () => {
   return (
-    <div>
+    <Container>
       <h1>Home Page</h1>
-    </div>
+    </Container>
   );
 };

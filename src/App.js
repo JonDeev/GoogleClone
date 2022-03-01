@@ -6,10 +6,12 @@ import { Images } from "./pages/Images";
 
 import { Navbar } from "./components/Navbar";
 import { Routes, Route } from "react-router-dom";
+import { GlobalStyle } from "./globalStyles";
 
 function App() {
   return (
-    <div className='App'>
+    <>
+      <GlobalStyle />
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
@@ -18,7 +20,7 @@ function App() {
         <Route path='/gmail' element={<Gmail />} />
         <Route path='/images' element={<Images />} />
       </Routes>
-    </div>
+    </>
   );
 }
 
