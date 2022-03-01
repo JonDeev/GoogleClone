@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JohnDeev.github.io/GoogleClone/static/css/main.e6c13ad2.css",
-    "main.js": "/JohnDeev.github.io/GoogleClone/static/js/main.7e9011df.js",
+    "main.js": "/JohnDeev.github.io/GoogleClone/static/js/main.085cfc3f.js",
     "static/js/787.440ac455.chunk.js": "/JohnDeev.github.io/GoogleClone/static/js/787.440ac455.chunk.js",
     "index.html": "/JohnDeev.github.io/GoogleClone/index.html",
     "main.e6c13ad2.css.map": "/JohnDeev.github.io/GoogleClone/static/css/main.e6c13ad2.css.map",
-    "main.7e9011df.js.map": "/JohnDeev.github.io/GoogleClone/static/js/main.7e9011df.js.map",
+    "main.085cfc3f.js.map": "/JohnDeev.github.io/GoogleClone/static/js/main.085cfc3f.js.map",
     "787.440ac455.chunk.js.map": "/JohnDeev.github.io/GoogleClone/static/js/787.440ac455.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7e9011df.js"
+    "static/js/main.085cfc3f.js"
   ]
 }
